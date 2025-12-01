@@ -1,0 +1,6 @@
+customtkinter
+plyer
+apscheduler
+pystray
+pytest
+pytest-cov
