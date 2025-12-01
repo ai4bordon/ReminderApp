@@ -27,6 +27,9 @@ MANIFEST
 *.manifest
 *.spec
 
+# Allow ReminderApp.exe
+!dist/ReminderApp.exe
+
 # Environment variables
 .env
 .venv
